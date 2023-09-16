@@ -1,1 +1,2 @@
 learngit
+mingisugune tekst juurde
